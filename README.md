@@ -43,8 +43,14 @@ Link to dataset website: https://github.com/owid/covid-19-data/tree/master/publi
 Link to download dataset: https://github.com/owid/covid-19-data/raw/master/public/data/vaccinations/vaccinations.csv
 
 ### Vaccination by manufacturer dataset
-The dataset contains the following column
+The dataset contains the following columns
+
 Location - country
+
 Date - date
+
+Link to dataset website: https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/vaccinations-by-manufacturer.csv
+
+Link to download dataset: https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations-by-manufacturer.csv
 Vaccine - vaccine type
 
